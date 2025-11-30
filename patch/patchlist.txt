@@ -1,2 +1,2 @@
-root.eix
-root.epk
+patch/pack/root.eix
+patch/pack/root.epk
