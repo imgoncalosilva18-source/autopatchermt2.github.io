@@ -1,3 +1,2 @@
-patch/pack/root.eix
-patch/pack/root.epk
-patch/version.cfg
+pack/root.eix
+pack/root.epk
