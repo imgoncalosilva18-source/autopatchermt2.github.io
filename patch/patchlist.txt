@@ -1,2 +1,6 @@
 patch/pack/root.eix
 patch/pack/root.epk
+patch/pack/locale_pt.eix
+patch/pack/locale_pt.epk
+patch/Metin2Distribute.exe
+
